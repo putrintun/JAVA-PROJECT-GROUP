@@ -1,13 +1,11 @@
-<h1 align="left">Project PBO</h1>
-<h3 align="left">Kumpulan Tugas dan Praktikum Pemograman Beorientasi Objek</h3>
+<h1 align="left">Project PROGDAS</h1>
+<h3 align="left">Kumpulan Tugas dan Praktikum Pemograman Dasar</h3>
 
-<h2 align="left">Output Perpustakaan</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153740045-0268afd0-35a2-4273-b424-aa2e253c88ef.png">
-<img src="https://user-images.githubusercontent.com/71278187/153740061-2acff18f-209c-4f75-89f6-ff4b7ef2270f.png">
-<img src="https://user-images.githubusercontent.com/71278187/153740077-3609838e-d2e2-4362-80d8-9b23804e016e.png">
-<img src="https://user-images.githubusercontent.com/71278187/153740098-df97813d-7943-4376-a8e8-cbb2972d7f2c.png">
+<h2 align="left">Output Pengisian Kartu Pelajar</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153740339-4246b0d3-f6eb-4d75-92de-88919aa3ee4e.png">
 
-<h2 align="left">Output Pelelangan</h2>
-<img src="https://user-images.githubusercontent.com/71278187/153739644-b146c5dc-40a0-4244-907e-f9722f4f47a2.png">
-<img src="https://user-images.githubusercontent.com/71278187/153739665-d5453cea-63f2-477b-acf3-d7908721c096.png">
-<img src="https://user-images.githubusercontent.com/71278187/153739675-c6f6f338-7ec3-46e4-a9b2-4a464765655e.png">
+<h2 align="left">Output Peternakan Hewan</h2>
+<img src="https://user-images.githubusercontent.com/71278187/153740391-1dff8ac0-0565-4c96-92e8-5acaec298e70.png">
+<img src="https://user-images.githubusercontent.com/71278187/153740423-22e29656-eefa-46cb-9a44-1d2cc2766daf.png">
+<img src="https://user-images.githubusercontent.com/71278187/153740465-9ff08c4e-f9f1-470b-9622-4ae6902854ed.png">
+<img src="https://user-images.githubusercontent.com/71278187/153740485-af56e492-63f8-4530-b2fa-8f874de0b605.png">
